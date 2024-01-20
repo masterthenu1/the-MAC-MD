@@ -17,7 +17,8 @@
     </a>
   </p>
 ---
-Scan QR Code
+  
+# ```PARING CODE```
 
 1. ***Get [SESSION-ID](https://replit.com/@sekitendemarkda/MAC-MD-1#main.sh) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
